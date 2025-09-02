@@ -6,7 +6,12 @@ The dataset contains information about TV shows and movies available on Netflix,
 ## 📂 Project Structure
 - `netflix_analysis.py` → Main Python script for data cleaning and analysis  
 - `netflix_cleaned.csv` → Cleaned dataset with missing values handled  
-- `netflix_titles.csv` → Original dataset  
+- `netflix_titles.csv` → Original dataset
+
+## Dataset  
+The dataset used in this project is the [Netflix Movies and TV Shows dataset](https://www.kaggle.com/shivamb/netflix-shows) from Kaggle.  
+(It is not uploaded here to keep the repository lightweight. You can download it directly from Kaggle if you want to reproduce the analysis.)
+
 
 ## 🔍 Key Steps
 - Loaded and explored dataset using Pandas (`.info()`, `.describe()`)  
